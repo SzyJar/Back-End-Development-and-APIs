@@ -1,2 +1,2 @@
 # Back End Development and APIs
- freeCodeCamp - Back End Development and APIs Certification - course projects.
+Course is available at: https://www.freecodecamp.org/learn/back-end-development-and-apis/
